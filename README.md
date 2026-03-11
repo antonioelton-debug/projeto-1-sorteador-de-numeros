@@ -31,7 +31,7 @@ if (quantidade > capacidadeDisponivel) {
 
 Faça o clone do repositório:
 
-git clone [git@github.com:antonioelton-debug/projeto-1-sorteador-de-numeros.git](git@github.com:antonioelton-debug/projeto-1-sorteador-de-numeros.git)
+git clone git@github.com:antonioelton-debug/projeto-1-sorteador-de-numeros
 
 Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server do VS Code.
 
